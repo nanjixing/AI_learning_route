@@ -1,5 +1,5 @@
 TensorFlow
-	基于TensorFlow上层框架&库：
+	基于TensorFlow的上层框架&库：
 	机器学习库
 		Numpy
 		Pandas
@@ -14,6 +14,6 @@ TensorFlow
 		dlib (conda install -c menpo dlib)
 		face_recognition (pip install face_recognition)
 				
-Caffe
 PyTorch
+Caffe
 MXNet
